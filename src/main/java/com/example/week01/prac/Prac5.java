@@ -4,7 +4,7 @@ package com.example.week01.prac;
 import java.util.ArrayList;
 import java.util.List;
 
-public class prac5 {
+public class Prac5 {
 
     public static int countFruit(String fruit) {
         List<String> fruits = new ArrayList<>();
