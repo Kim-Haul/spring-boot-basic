@@ -7,6 +7,7 @@ $ Type: Gradle
 $ Language: Java
 $ Packaging: Jar
 $ Java Version: 8
+$ SDK: 1.8 Oracle OpenJDK version 1.8.0_202
 
 // build.gradle - dependencies
 $ Spring Web
