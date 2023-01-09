@@ -7,6 +7,11 @@ public class Main {
         course.title = "웹개발의 봄, Spring";
         System.out.println(course.title);
         System.out.println(course.tutor);
+
+        // How to use Getter, Setter
+        System.out.println("------ Getter, Setter 사용 ------");
+        Constructor constructor = new Constructor("프론트엔드의 꽃, 리액트", "임민영", 4);
+        System.out.println(constructor.getTitle());
     }
 
 }
