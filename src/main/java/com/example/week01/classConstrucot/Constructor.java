@@ -1,4 +1,4 @@
-package com.example.week01.prac;
+package com.example.week01.classConstrucot;
 
 public class Constructor {
     public String title;

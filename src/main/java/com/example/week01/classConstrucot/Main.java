@@ -1,4 +1,4 @@
-package com.example.week01.prac;
+package com.example.week01.classConstrucot;
 
 public class Main {
     public static void main(String[] args) {
